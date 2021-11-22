@@ -6,10 +6,4 @@
 	- <u>330,000</u> guilds and <u>100,000,000</u> users
 	
 ### **What do I know?**
-- Typescript
-- MongoDB
-- Redis
-
-### **What am I learning?** 
-- Rust
-- React
+- Typescript, React, MongoDB, Redis
